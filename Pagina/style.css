@@ -26,7 +26,7 @@ img {
 }
 
 .header {
-    background-image: url(imagenes/foto2.png);
+    background-image: url(imagenes/imagen70.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -145,6 +145,8 @@ h2 {
 .popular-content {
     display: flex;
     justify-content: space-between;
+    display: grid;
+    grid-row: auto;
 }
 
 .popular-content img {
